@@ -1,2 +1,1 @@
-# my_
-this should contain all my project's
+the python archive contain my first work in python with th tkinter librarie ; It's a little image game;
